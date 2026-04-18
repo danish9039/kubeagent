@@ -156,7 +156,9 @@ pytest tests/ -v
 
 ## Architecture
 
-See [BLUEPRINT.md](./BLUEPRINT.md) for the full engineering document including:
+See [BLUEPRINT.md](./BLUEPRINT.md) for the full engineering document
+
+For visual diagrams (architecture, sequence, state machines, class diagram), see [DIAGRAMS.md](./DIAGRAMS.md) including:
 - ASCII component diagrams
 - Agent loop pseudocode
 - Complete tool JSON schemas
