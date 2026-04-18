@@ -1,3 +1,5 @@
+![Tests](https://img.shields.io/badge/tests-44%20passed-brightgreen) ![Python](https://img.shields.io/badge/python-3.11%2B-blue) ![License](https://img.shields.io/badge/license-Apache%202.0-lightgrey) ![Claude](https://img.shields.io/badge/Claude-claude--sonnet--4--5-orange)
+
 # KubeAgent 🤖
 
 **Autonomous MLOps Engineer Agent** — monitors Kubeflow Pipelines, detects failures, correlates with MLflow experiments, and auto-generates GitHub PR fixes using Claude claude-sonnet-4-5.
